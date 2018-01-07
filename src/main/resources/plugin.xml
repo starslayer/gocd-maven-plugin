@@ -13,6 +13,7 @@
             <value>Linux</value>
             <value>Windows</value>
             <value>Mac OS X</value>
+            <value>FreeBSD</value>
         </target-os>
     </about>
 </go-plugin>
